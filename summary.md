@@ -1,4 +1,5 @@
 # QE_Afr_LatihanTrunkBased
+
 haloo
 
 merah
@@ -13,13 +14,7 @@ oren
 pink
 ungu
 
-aku
+aku 
 ubah
-lagi
 disini
-
-afrizal
-najwa 
-syauqi
-
-
+revisi
