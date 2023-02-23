@@ -1,8 +1,19 @@
 # QE_Afr_LatihanTrunkBased
-afr
-zak
-ijo
+haloo
+
 merah
-orange
-hijau
+jingga
 kuning
+hijau
+biru
+nila
+ungu
+
+oren
+pink
+ungu
+
+aku 
+ubah
+disini
+revisi
