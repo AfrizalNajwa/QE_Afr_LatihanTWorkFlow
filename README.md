@@ -13,5 +13,11 @@ oren
 pink
 ungu
 
+aku
+ubah
+lagi
+disini
+
+
 
 
