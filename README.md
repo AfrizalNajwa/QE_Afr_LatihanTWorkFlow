@@ -9,4 +9,9 @@ biru
 nila
 ungu
 
+oren
+pink
+ungu
+
+
 
